@@ -349,7 +349,7 @@
   ],
   "spalle": [
     {
-      "id": 1,
+      "id": 10,
       "name": "Lento Avanti con Bilanciere",
       "type": [
         "Forza",
@@ -389,7 +389,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 2,
+      "id": 11,
       "name": "Alzate Laterali con Manubri",
       "type": [
         "Ipertrofia",
@@ -422,7 +422,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 3,
+      "id": 12,
       "name": "Distensioni con Manubri sopra la Testa",
       "type": [
         "Forza",
@@ -462,7 +462,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 4,
+      "id": 13,
       "name": "Face Pull ai Cavi",
       "type": [
         "Ipertrofia",
@@ -496,7 +496,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 5,
+      "id": 14,
       "name": "Alzate Frontali con Manubri",
       "type": [
         "Ipertrofia",
@@ -529,7 +529,7 @@
       "caloriesBurned": 35
     },
     {
-      "id": 6,
+      "id": 15,
       "name": "Arnold Press",
       "type": [
         "Forza",
@@ -569,7 +569,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 7,
+      "id": 16,
       "name": "Pulley per Deltoidi Posteriori",
       "type": [
         "Ipertrofia",
@@ -602,7 +602,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 8,
+      "id": 17,
       "name": "Alzate Laterali al Cavo",
       "type": [
         "Ipertrofia",
@@ -637,7 +637,7 @@
   ],
   "tricipiti": [
     {
-      "id": 1,
+      "id": 18,
       "name": "Estensioni con Bilanciere sopra la Testa",
       "type": [
         "Forza",
@@ -675,7 +675,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 3,
+      "id": 19,
       "name": "Estensioni con Manubri su Panca Inclinata",
       "type": [
         "Ipertrofia",
@@ -709,7 +709,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 4,
+      "id": 20,
       "name": "Pushdown ai Cavi",
       "type": [
         "Forza",
@@ -748,7 +748,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 5,
+      "id": 21,
       "name": "Estensioni ai Cavi con Treccione",
       "type": [
         "Ipertrofia",
@@ -781,7 +781,7 @@
       "caloriesBurned": 35
     },
     {
-      "id": 6,
+      "id": 22,
       "name": "French Press con Bilanciere EZ",
       "type": [
         "Forza",
@@ -819,7 +819,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 7,
+      "id": 23,
       "name": "French Press Braccio Singolo",
       "type": [
         "Ipertrofia",
@@ -852,7 +852,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 8,
+      "id": 24,
       "name": "Kickback ai Cavi",
       "type": [
         "Ipertrofia",
@@ -887,7 +887,7 @@
   ],
   "bicipiti": [
     {
-      "id": 1,
+      "id": 25,
       "name": "Curl con Bilanciere",
       "type": [
         "Forza",
@@ -925,7 +925,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 2,
+      "id": 26,
       "name": "Curl con Manubri su Panca Inclinata",
       "type": [
         "Forza",
@@ -965,7 +965,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 3,
+      "id": 27,
       "name": "Curl Concentrato con Manubrio",
       "type": [
         "Ipertrofia"
@@ -993,7 +993,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 4,
+      "id": 28,
       "name": "Curl ai Cavi Bassi",
       "type": [
         "Forza",
@@ -1032,7 +1032,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 5,
+      "id": 29,
       "name": "Curl con Bilanciere EZ",
       "type": [
         "Forza",
@@ -1070,7 +1070,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 6,
+      "id": 30,
       "name": "Hammer Curl con Manubri",
       "type": [
         "Ipertrofia",
@@ -1104,7 +1104,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 7,
+      "id": 31,
       "name": "Curl al Cavo con Maniglia Singola",
       "type": [
         "Ipertrofia",
@@ -1137,7 +1137,7 @@
       "caloriesBurned": 42
     },
     {
-      "id": 8,
+      "id": 32,
       "name": "Curl Scott con Bilanciere EZ",
       "type": [
         "Forza",
@@ -1178,7 +1178,7 @@
   ],
   "dorsali": [
     {
-      "id": 1,
+      "id": 33,
       "name": "Lat Machine Presa Larga",
       "type": [
         "Forza",
@@ -1217,7 +1217,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 2,
+      "id": 34,
       "name": "Pulley Basso",
       "type": [
         "Forza",
@@ -1258,7 +1258,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 3,
+      "id": 35,
       "name": "Rematore con Bilanciere",
       "type": [
         "Forza",
@@ -1298,7 +1298,7 @@
       "caloriesBurned": 70
     },
     {
-      "id": 4,
+      "id": 36,
       "name": "Pullover con Manubrio",
       "type": [
         "Ipertrofia",
@@ -1333,7 +1333,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 5,
+      "id": 37,
       "name": "Trazioni alla Sbarra",
       "type": [
         "Forza",
@@ -1373,7 +1373,7 @@
       "caloriesBurned": 75
     },
     {
-      "id": 6,
+      "id": 38,
       "name": "Rematore con Manubri",
       "type": [
         "Ipertrofia",
@@ -1409,7 +1409,7 @@
       "caloriesBurned": 65
     },
     {
-      "id": 7,
+      "id": 39,
       "name": "Lat Machine Presa Stretta",
       "type": [
         "Ipertrofia",
@@ -1443,7 +1443,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 8,
+      "id": 40,
       "name": "T-Bar Row Presa larga",
       "type": [
         "Forza",
@@ -1485,7 +1485,7 @@
       "caloriesBurned": 70
     },
     {
-      "id": 9,
+      "id": 41,
       "name": "Lat Machine Presa Inversa",
       "type": [
         "Ipertrofia",
@@ -1519,7 +1519,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 10,
+      "id": 42,
       "name": "Lat Machine con Triangolo",
       "type": [
         "Ipertrofia",
@@ -1553,7 +1553,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 8,
+      "id": 43,
       "name": "T-Bar Row Presa Stretta",
       "type": [
         "Forza",
@@ -1594,7 +1594,7 @@
   ],
   "quadricipiti": [
     {
-      "id": 1,
+      "id": 44,
       "name": "Squat con Bilanciere",
       "type": [
         "Forza",
@@ -1634,7 +1634,7 @@
       "caloriesBurned": 90
     },
     {
-      "id": 2,
+      "id": 45,
       "name": "Leg Press",
       "type": [
         "Forza",
@@ -1674,7 +1674,7 @@
       "caloriesBurned": 80
     },
     {
-      "id": 3,
+      "id": 46,
       "name": "Affondi con Manubri",
       "type": [
         "Forza",
@@ -1715,7 +1715,7 @@
       "caloriesBurned": 85
     },
     {
-      "id": 4,
+      "id": 47,
       "name": "Hack Squat",
       "type": [
         "Forza",
@@ -1754,7 +1754,7 @@
       "caloriesBurned": 95
     },
     {
-      "id": 5,
+      "id": 48,
       "name": "Leg Extension",
       "type": [
         "Ipertrofia",
@@ -1792,7 +1792,7 @@
       "caloriesBurned": 70
     },
     {
-      "id": 6,
+      "id": 49,
       "name": "Squat Bulgaro",
       "type": [
         "Forza",
@@ -1834,7 +1834,7 @@
       "caloriesBurned": 85
     },
     {
-      "id": 7,
+      "id": 50,
       "name": "Step-up con Manubri",
       "type": [
         "Forza",
@@ -1876,7 +1876,7 @@
       "caloriesBurned": 75
     },
     {
-      "id": 8,
+      "id": 51,
       "name": "Leg Press a Piedi Stretti",
       "type": [
         "Forza",
@@ -1916,7 +1916,7 @@
   ],
   "femorali": [
     {
-      "id": 1,
+      "id": 52,
       "name": "Stacco da Terra",
       "type": [
         "Forza",
@@ -1956,7 +1956,7 @@
       "caloriesBurned": 120
     },
     {
-      "id": 2,
+      "id": 53,
       "name": "Leg Curl",
       "type": [
         "Ipertrofia",
@@ -1994,7 +1994,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 3,
+      "id": 54,
       "name": "Stacco Rumeno",
       "type": [
         "Forza",
@@ -2034,7 +2034,7 @@
       "caloriesBurned": 100
     },
     {
-      "id": 4,
+      "id": 55,
       "name": "Good Morning",
       "type": [
         "Forza",
@@ -2074,7 +2074,7 @@
       "caloriesBurned": 85
     },
     {
-      "id": 5,
+      "id": 56,
       "name": "Nordic Hamstring Curl",
       "type": [
         "Ipertrofia",
@@ -2114,7 +2114,7 @@
       "caloriesBurned": 90
     },
     {
-      "id": 6,
+      "id": 57,
       "name": "Ponte Glutei con Bilanciere",
       "type": [
         "Forza",
@@ -2155,7 +2155,7 @@
       "caloriesBurned": 75
     },
     {
-      "id": 7,
+      "id": 58,
       "name": "Affondi a Inverso",
       "type": [
         "Ipertrofia",
@@ -2194,7 +2194,7 @@
       "caloriesBurned": 85
     },
     {
-      "id": 8,
+      "id": 59,
       "name": "Stacco a Gambe Tese",
       "type": [
         "Forza",
@@ -2236,7 +2236,7 @@
   ],
   "polpacci": [
     {
-      "id": 1,
+      "id": 60,
       "name": "Calf Raise alla Macchina",
       "type": [
         "Forza",
@@ -2274,7 +2274,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 2,
+      "id": 61,
       "name": "Calf Raise con Manubri",
       "type": [
         "Ipertrofia",
@@ -2312,7 +2312,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 3,
+      "id": 62,
       "name": "Calf Raise su Panca con Bilanciere",
       "type": [
         "Forza",
@@ -2351,7 +2351,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 4,
+      "id": 63,
       "name": "Calf Raise alla Leg Press",
       "type": [
         "Forza",
@@ -2389,7 +2389,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 5,
+      "id": 64,
       "name": "Calf Raise alla Smith Machine",
       "type": [
         "Forza",
@@ -2427,7 +2427,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 6,
+      "id": 65,
       "name": "Calf Raise a Una Gamba con Manubrio",
       "type": [
         "Ipertrofia",
@@ -2467,7 +2467,7 @@
   ],
   "avambracci": [
     {
-      "id": 1,
+      "id": 66,
       "name": "Wrist Curl con Bilanciere",
       "type": [
         "Forza",
@@ -2505,7 +2505,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 2,
+      "id": 67,
       "name": "Reverse Wrist Curl con Bilanciere",
       "type": [
         "Forza",
@@ -2543,7 +2543,7 @@
       "caloriesBurned": 40
     },
     {
-      "id": 3,
+      "id": 68,
       "name": "Wrist Roller",
       "type": [
         "Forza",
@@ -2581,7 +2581,7 @@
       "caloriesBurned": 35
     },
     {
-      "id": 4,
+      "id": 69,
       "name": "Reverse Curl con Manubri",
       "type": [
         "Forza",
@@ -2620,7 +2620,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 5,
+      "id": 70,
       "name": "Farmer's Walk con Manubri",
       "type": [
         "Forza",
@@ -2662,7 +2662,7 @@
   ],
   "addominali": [
     {
-      "id": 1,
+      "id": 71,
       "name": "Crunch a Terra",
       "type": [
         "Ipertrofia",
@@ -2700,7 +2700,7 @@
       "caloriesBurned": 30
     },
     {
-      "id": 2,
+      "id": 72,
       "name": "Plank",
       "type": [
         "Forza",
@@ -2740,7 +2740,7 @@
       "caloriesBurned": 50
     },
     {
-      "id": 3,
+      "id": 73,
       "name": "Crunch Inverso",
       "type": [
         "Ipertrofia",
@@ -2779,7 +2779,7 @@
       "caloriesBurned": 35
     },
     {
-      "id": 4,
+      "id": 74,
       "name": "Leg Raise Appeso",
       "type": [
         "Forza",
@@ -2818,7 +2818,7 @@
       "caloriesBurned": 60
     },
     {
-      "id": 5,
+      "id": 75,
       "name": "Russian Twist con Manubrio",
       "type": [
         "Ipertrofia",
@@ -2857,7 +2857,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 6,
+      "id": 76,
       "name": "Mountain Climbers",
       "type": [
         "Dimagrimento"
@@ -2896,7 +2896,7 @@
       "caloriesBurned": 70
     },
     {
-      "id": 7,
+      "id": 77,
       "name": "V-Ups",
       "type": [
         "Forza",
@@ -2935,7 +2935,7 @@
       "caloriesBurned": 55
     },
     {
-      "id": 8,
+      "id": 78,
       "name": "Side Plank",
       "type": [
         "Forza",
@@ -2976,7 +2976,7 @@
   ],
   "trapezio": [
     {
-      "id": 1,
+      "id": 79,
       "name": "Scrollate con Manubri",
       "type": [
         "Forza",
@@ -3014,7 +3014,7 @@
       "caloriesBurned": 45
     },
     {
-      "id": 2,
+      "id": 80,
       "name": "Tirate al Mento con Bilanciere",
       "type": [
         "Forza",
